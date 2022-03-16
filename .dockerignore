@@ -1,0 +1,16 @@
+.git
+.gitignore
+.cache
+node_modules
+npm-debug.log
+Dockerfile*
+docker-compose*
+README.md
+LICENSE
+.vscode
+*.md
+logs
+
+#Ignoring the password file
+passwords.txt
+

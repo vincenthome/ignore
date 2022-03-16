@@ -1,1 +1,1 @@
-# ignores
+# A collection of ignore files
